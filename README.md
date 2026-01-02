@@ -17,10 +17,10 @@
 ---
 
 ## 📅 Project Timeline
-| Period & Project | Key Service & Value | Role & Tech | Links 🔗 |
+| Period & Project | Key Service & Value 💎 | Role & Tech | Links 🔗 |
 | :--- | :--- | :--- | :--- |
 | **25.10 ~ 11**<br>**(Newest)**<br>**SafePath**<br>*(멋사 간지톤 Top 6)* | **🛡️ 안심 통학로 컨설팅 AI**<br>LLM을 활용한 데이터 기반 '안전 리포트' 제공 | **Backend & Ideation**<br>Spring Boot, Upstage AI (LLM)<br>Firebase, Google Maps API, GCP | [📂 GitHub](https://github.com/2025-GanziThon-8/Backend.git) |
-| **25.08**<br>**DOMO**<br>*(멋사 해커톤)* | **💸 가성비 놀거리 큐레이션**<br>대학생을 위한 '집 앞 5분 거리' 초개인화 장소 추천 | **Backend Lead**<br>Spring Boot, Supabase<br>AWS Deployment | [📂 GitHub](https://github.com/Wangjonghui/domo-be) |
+| **25.08**<br>**DOMO**<br>*(멋사 해커톤)* | **💘 대학생 데이트 코스 추천**<br>위치 기반 맞춤형 데이트 장소 큐레이션 | **Backend Lead**<br>Spring Boot, Supabase<br>AWS Deployment | [📂 GitHub](https://github.com/Wangjonghui/domo-be) |
 | **25.05 ~ 10**<br>**Foodmap**<br>*(SW경진대회 2등)* | **🐟 실시간 길거리 음식 지도**<br>사용자 참여형 푸드트럭 위치 공유 및 오픈 알림 | **Backend**<br>Spring Boot, AWS RDS (MySQL)<br>AWS EC2 | [📂 GitHub](https://github.com/Wangjonghui/SwProject-be.git) |
 ---
 
