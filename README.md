@@ -19,9 +19,9 @@
 ## 📅 Project Timeline
 | Period & Project | Key Service & Value 💎 | Role & Tech | Links 🔗 |
 | :--- | :--- | :--- | :--- |
-| **25.10 ~ 11**<br>**SafePath**<br>*(멋사 간지톤 Top 6)* | **🛡️ 안심 통학로 컨설팅 AI**<br>LLM을 활용한 데이터 기반 '안전 리포트' 제공 | **Backend & Ideation**<br>Spring Boot, Upstage AI (LLM)<br>Firebase, Google Maps API, GCP | [📂 GitHub](https://github.com/2025-GanziThon-8/Backend.git)<br>[📝 Notion](https://www.notion.so/2025-10-31-11-22-SAFEPATH-Top-6-27dcbfa4bade80daa169e5d801071e14?source=copy_link) |
-| **25.08**<br>**DOMO**<br>*(멋사 해커톤)* | **💸 가성비 놀거리 큐레이션**<br>대학생을 위한 '집 앞 5분 거리' 초개인화 장소 추천 | **Backend Lead**<br>Spring Boot, Supabase<br>AWS Deployment | [📂 GitHub](https://github.com/Wangjonghui/domo-be)<br>[📝 Notion](https://www.notion.so/2025-08-25-26-DOMO-27dcbfa4bade80d09ebcd51ac89c9f49?source=copy_link) |
-| **25.05 ~ 10**<br>**Foodmap**<br>*(SW경진대회 2등)* | **🐟 실시간 길거리 음식 지도**<br>사용자 참여형 푸드트럭 위치 공유 및 오픈 알림 | **Backend**<br>Spring Boot, AWS RDS (MySQL)<br>AWS EC2 | [📂 GitHub](https://github.com/Wangjonghui/SwProject-be.git)<br>[📝 Notion](https://www.notion.so/2025-05-10-SW-foodmap-2-27dcbfa4bade80e4a2f7c576abed5b96?source=copy_link) |
+| **25.10 ~ 11**<br>**SafePath**<br>*(멋사 간지톤 Top 6)* | **🛡️ 안심 통학로 컨설팅 AI**<br>LLM을 활용한 데이터 기반 '안전 리포트' 제공 | **Backend & Ideation**<br>Spring Boot, Upstage AI (LLM)<br>Firebase, Google Maps API, GCP | [📂 GitHub](https://github.com/2025-GanziThon-8/Backend.git)<br>[📝 Notion]() |
+| **25.08**<br>**DOMO**<br>*(멋사 해커톤)* | **💸 가성비 놀거리 큐레이션**<br>대학생을 위한 '집 앞 5분 거리' 초개인화 장소 추천 | **Backend Lead**<br>Spring Boot, Supabase<br>AWS Deployment | [📂 GitHub](https://github.com/Wangjonghui/domo-be)<br>[📝 Notion]() |
+| **25.05 ~ 10**<br>**Foodmap**<br>*(SW경진대회 2등)* | **🐟 실시간 길거리 음식 지도**<br>사용자 참여형 푸드트럭 위치 공유 및 오픈 알림 | **Backend**<br>Spring Boot, AWS RDS (MySQL)<br>AWS EC2 | [📂 GitHub](https://github.com/Wangjonghui/SwProject-be.git)<br>[📝 Notion]() |
 
 ---
 
