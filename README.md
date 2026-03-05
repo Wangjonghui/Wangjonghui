@@ -19,8 +19,8 @@
 ## 📅 Project Timeline
 | Period & Project | Key Service & Value 💎 | Role & Tech | Links 🔗 |
 | :--- | :--- | :--- | :--- |
-| **25.12 ~ 26.03**<br>**Career-HI** | **📊 AI 맞춤형 취업 리포트 제공**<br>사용자 이력 데이터 기반 커리어 분석 및 멀티 모듈 아키텍처 구축 | **Backend Lead**<br>Spring Boot, MariaDB<br>OCI, OpenAI API | [📂 GitHub](https://github.com/syu-HackathonTeam/career-hi-back) |
-| **25.12 ~ 26.02**<br>**멋쟁이사자처럼 홈페이지**<br>*(14기 공식 LMS)* | **🦁 동아리 전용 통합 LMS 및 커뮤니티**<br>이중 권한(RBAC) 검증 아키텍처 및 Multipart 복합 처리 API 구축 | **Backend Lead**<br>Spring Boot, Spring Security<br>MySQL, OCI | [📂 GitHub](https://github.com/GyoseungKu/Likelion_SYU_Homepage) |
+| **25.12 ~ 26.03**<br>**Career-HI** | **📊 AI 맞춤형 취업 리포트 제공**<br>사용자 이력 데이터 기반 커리어 분석 및 멀티 모듈 아키텍처 구축 | **Backend**<br>Spring Boot, MariaDB<br>OCI, OpenAI API | [📂 GitHub](https://github.com/syu-HackathonTeam/career-hi-back) |
+| **25.12 ~ 26.02**<br>**멋쟁이사자처럼 홈페이지**<br>*(14기 공식 LMS)* | **🦁 동아리 전용 통합 LMS 및 커뮤니티**<br>이중 권한(RBAC) 검증 아키텍처 및 Multipart 복합 처리 API 구축 | **Backend**<br>Spring Boot, Spring Security<br>MySQL, OCI | [📂 GitHub](https://github.com/GyoseungKu/Likelion_SYU_Homepage) |
 | **25.10 ~ 11**<br>**SafePath**<br>*(멋사 간지톤 Top 6)* | **🛡️ 안심 통학로 컨설팅 AI**<br>LLM을 활용한 데이터 기반 '안전 리포트' 제공 | **Backend & Ideation**<br>Spring Boot, Upstage AI (LLM)<br>Firebase, Google Maps API, GCP | [📂 GitHub](https://github.com/2025-GanziThon-8/Backend.git) |
 | **25.08**<br>**DOMO**<br>*(멋사 해커톤)* | **💘 대학생 데이트 코스 추천**<br>위치 기반 맞춤형 데이트 장소 큐레이션 | **Backend Lead**<br>Spring Boot, Supabase<br>AWS Deployment | [📂 GitHub](https://github.com/Wangjonghui/domo-be) |
 | **25.05 ~ 10**<br>**Foodmap**<br>*(SW경진대회 최우수)* | **🐟 실시간 길거리 음식 지도**<br>사용자 참여형 푸드트럭 위치 공유 및 오픈 알림 | **Backend**<br>Spring Boot, AWS RDS (MySQL)<br>AWS EC2 | [📂 GitHub](https://github.com/Wangjonghui/SwProject-be.git) |
