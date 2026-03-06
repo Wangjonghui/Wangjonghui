@@ -1,4 +1,4 @@
-### Hi there 👋 I'm JongHwi
+### Hi there 👋 I'm JongHui
 **Backend Developer dreaming of Java Spring 🌱**
 *"Data-driven decisions, Logical solutions."*
 
