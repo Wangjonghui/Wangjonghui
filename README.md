@@ -89,6 +89,17 @@
 - 과제 기능 추가 및 `UserRoleRepository` 일부 수정
 - 출석 관련 로직 개발과 변경사항 롤백 경험
 
+#### 06. [Day2Day — 위치 기반 Android 코스 추천 앱](https://github.com/D2D-CAPSTONE/day2day-android)
+
+**Team Project · Android Development**  
+![Android](https://img.shields.io/badge/Android-30363d?style=flat-square)
+![Java](https://img.shields.io/badge/Java-30363d?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-30363d?style=flat-square)
+
+- 추천 코스 지도 화면 개발 및 백엔드 API 연동
+- 추천 코스 데이터 로컬 저장 기능 구현
+- 주변 장소 추천 로직 개선 및 데이터 모델 구성
+
 ---
 
 ### How I Work
