@@ -60,14 +60,28 @@
 - 장소 간 거리, 카테고리 분산, 중복 장소 제외 등을 반영한 추천 로직 구현
 - 프론트엔드 연동 및 클라우드 환경 배포 경험
 
-#### 03. [Foodmap — 푸드트럭 위치 공유 서비스](https://github.com/Wangjonghui/SwProject-be)
+
+#### 03. [Career-HI — 개발자 채용공고 서비스](https://github.com/syu-HackathonTeam/career-hi-back)
+
+**Team Project · Backend**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-30363d?style=flat-square)
+![Java](https://img.shields.io/badge/Java-30363d?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-30363d?style=flat-square)
+![Database](https://img.shields.io/badge/Database-30363d?style=flat-square)
+
+- 개발자 채용공고 관련 데이터베이스 설계 및 REST API 개발
+- API 명세서를 기반으로 백엔드 기능 구현
+- 프론트엔드 API 연동 및 로그 기반 오류 분석·수정
+
+
+#### 04. [Foodmap — 푸드트럭 위치 공유 서비스](https://github.com/Wangjonghui/SwProject-be)
 **Team Project · Backend**  
 `Spring Boot` `MySQL` `Kakao Map API` `AWS EC2` `Nginx`
 
 - 푸드트럭 등록·조회, 리뷰, 찜, 알림 관련 백엔드 기능 개발
 - 지도 기반 서비스 API 연동 및 서버 배포·운영 과정의 문제 해결
 
-#### 04. 멋쟁이사자처럼 삼육대학교 홈페이지
+#### 05. 멋쟁이사자처럼 삼육대학교 홈페이지
 **Team Project · Backend**  
 [Repository](https://github.com/GyoseungKu/Likelion_SYU_Homepage) *(접근 권한에 따라 열리지 않을 수 있음)*
 
